@@ -14,7 +14,7 @@
 [![Dependencies](https://img.shields.io/badge/dependencies-0-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-8b949e.svg)](#)
 
-<img src="docs/preview.svg" alt="session-history 在终端里列出四个历史会话" width="880">
+<img src="docs/terminal-preview.svg" alt="session-history 在终端里列出四个历史会话" width="880">
 
 </div>
 
